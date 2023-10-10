@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Web+developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn more about blockchain and app development
+- 🥅 2023 Goals: Learn more about Fullstack web development
 - ⚡ Hobbies: I love to cook  and play outdoor sports
 
 ### Languages and Tools :
